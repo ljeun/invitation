@@ -841,7 +841,8 @@
 					margin-left: 0;
 				}
 
-/* Thumbnails */
+/* 
+bnails */
 
 	#thumbnails {
 		display: -moz-flex;
@@ -857,7 +858,7 @@
 
 		#thumbnails article {
 			position: relative;
-			width: 50%;
+			width: 100%;
 			background: #101010;
 			outline: 0;
 		}
