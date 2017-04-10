@@ -873,6 +873,7 @@ bnails */
 			}
 
 				#thumbnails article .thumbnail img {
+					margin-bottom: 10px;
 					display: block;
 					width: 100%;
 				}
